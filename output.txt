@@ -1,0 +1,41 @@
+first_number - identifier
+" " - space
+= - operator
+" " - space
+2 - character/string const
+"\r" - escape character
+"\n" - escape character
+second_number - identifier
+" " - space
+= - operator
+" " - space
+3 - number
+"\r" - escape character
+"\n" - escape character
+#Explicit conversion  -  comment
+"\r" - escape character
+"\n" - escape character
+third_number - identifier
+" " - space
+= - operator
+" " - space
+int - identifier
+( - bracket
+first_number - identifier
+) - bracket
+" " - space
++ - operator
+" " - space
+second_number - identifier
+"\r" - escape character
+"\n" - escape character
+print - identifier
+( - bracket
+third_number - identifier
+) - bracket
+"\r" - escape character
+"\n" - escape character
+import - keyword
+" " - space
+re - identifier
+; - delimeter
